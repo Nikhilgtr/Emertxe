@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>CtoHTML Output</title>
+    <link rel="stylesheet" href="/css/c.css" type="text/css" />
+    <meta name="generator" content="CtoHTML" />
+</head>
+
+<body>
+
+
+<!--  Email link  -->
+
+<div id="link">
+
+<p class="email">
+Please send any comments, suggestions, bug reports to <a href="mailto:mail@paulgriffiths.net">mail@paulgriffiths.net</a>
+</p>
+<hr />
+
+</div>
+
+</body>
+
+</html>
+emertxe@emertxe-VirtualBox:/media/sf_Ubuntu/HTML$ c
+
+emertxe@emertxe-VirtualBox:/media/sf_Ubuntu/HTML$ ./ctohtml test.c 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>CtoHTML Output</title>
+    <link rel="stylesheet" href="/css/c.css" type="text/css" />
+    <meta name="generator" content="CtoHTML" />
+</head>
+
+<body>
+
+
+<!--  Start of test.c listing  -->
+
+<div id="test.c">
+<h2>test.c</h2>
+
+<pre><span class="preproc">#include</span> &lt;stdio.h&gt;
+<span class="keyword">int</span> main()
+{
+	<span class="stdfunc">printf</span>(&quot;Hello world\n&quot;);
+	<span class="keyword">return</span> 0;
+}
+
+</pre>
+<hr />
+</div>
+
+
+<!--  Email link  -->
+
+<div id="link">
+
+<p class="email">
+Please send any comments, suggestions, bug reports to <a href="mailto:mail@paulgriffiths.net">mail@paulgriffiths.net</a>
+</p>
+<hr />
+
+</div>
+
+</body>
+
+</html>
+
