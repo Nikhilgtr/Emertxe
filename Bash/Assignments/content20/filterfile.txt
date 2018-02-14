@@ -1,0 +1,22 @@
+total 80
+-rwx------ 1 utkarsh utkarsh 1134 Sep 21 20:55 arith10.sh
+-rwx------ 1 utkarsh utkarsh  408 Sep 21 20:56 cal6.sh
+-rwx------ 1 utkarsh utkarsh  413 Sep 21 20:58 chessbrd13.sh
+drwxrwxr-x 2 utkarsh utkarsh 4096 Sep 21 23:24 content20
+-rw-rw-r-- 1 utkarsh utkarsh 1140 Sep 21 23:22 con.txt
+-rwx------ 1 utkarsh utkarsh  369 Sep 21 20:59 convert27.sh
+drwxrwxr-x 2 utkarsh utkarsh 4096 Sep 21 21:08 empty9
+-rwx------ 1 utkarsh utkarsh  292 Sep 21 21:00 fibo11.sh
+-rwx------ 1 utkarsh utkarsh  253 Sep 21 21:00 fibo19.sh
+-rw-rw-r-- 1 utkarsh utkarsh    0 Sep 21 23:27 filterfile.txt
+drwxrwxr-x 2 utkarsh utkarsh 4096 Sep 21 21:09 info1
+-rwx------ 1 utkarsh utkarsh  272 Sep 21 21:02 largest7.sh
+-rwx------ 1 utkarsh utkarsh  277 Sep 21 21:02 pat2.sh
+-rwx------ 1 utkarsh utkarsh  239 Sep 21 21:03 pat3.sh
+-rwx------ 1 utkarsh utkarsh  239 Sep 21 21:04 real5.sh
+-rwx------ 1 utkarsh utkarsh  372 Sep 21 21:05 revnum8.sh
+-rwx------ 1 utkarsh utkarsh  917 Sep 21 21:05 sort14.sh
+-rwx------ 1 utkarsh utkarsh  189 Sep 21 21:06 strlen12.sh
+drwxrwxr-x 3 utkarsh utkarsh 4096 Sep 21 21:11 test16
+drwxrwxr-x 2 utkarsh utkarsh 4096 Sep 21 21:13 test17
+drwxrwxr-x 3 utkarsh utkarsh 4096 Sep 21 23:16 test18

@@ -1,0 +1,16 @@
+Feb 15 02:39:39 User using script
+Feb 15 02:39:41 User prompted with options
+Feb 15 02:39:41 User decided to signup
+Feb 15 02:40:07 Signup successfull
+Feb 15 02:40:07 nikhil1 signed up
+Feb 15 02:40:09 User prompted to continue or exit
+Feb 15 02:40:16 User decided to continue
+Feb 15 02:40:16 User using script
+Feb 15 02:40:18 User prompted with options
+Feb 15 02:40:18 User chose to signin
+Feb 15 02:40:26 Signin Successfull
+Feb 15 02:40:26 nikhil1 signed in
+Feb 15 02:40:31 User decided to take test
+Feb 15 02:41:25 Test completed by the user
+Feb 15 02:41:50 User prompted to continue or exit
+Feb 15 02:41:53 User decided to exit
